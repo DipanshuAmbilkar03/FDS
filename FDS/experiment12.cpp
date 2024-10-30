@@ -105,6 +105,5 @@ int main() {
     cout<<"{deleting front elements}"<<endl;
     dq.deleteFront();
     dq.display();
-
     return 0;
 }
