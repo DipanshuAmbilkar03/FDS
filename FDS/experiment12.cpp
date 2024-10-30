@@ -95,7 +95,7 @@ int main() {
     cout<<"{deleting elements in front}"<<endl;
     dq.deleteFront();
     dq.display();
-    cout<<"{insert elements in front}"<<endl;
+    cout<<"{insert elements in front"<<endl;
     dq.insertFront(4);
     dq.insertRear(5);
     dq.display();
