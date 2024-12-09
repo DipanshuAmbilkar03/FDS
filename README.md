@@ -3,7 +3,7 @@
 This repository contains solutions to programming experiments for the **Second Year Fundamentals of Data Structures (FDS)** subject. Each experiment demonstrates concepts related to data structures and algorithms using Python and C++.
 
 ## Table of Contents
-1. [Experiment 1: Sports Group Operations](#experiment-1)
+1. [Experiment 1: Sports Group Operations](https://github.com/DipanshuAmbilkar03/FDS/blob/main/FDS/exp1.py)
 2. [Experiment 2: Marks Analysis](#experiment-2)
 3. [Experiment 3: Library Book Management](#experiment-3)
 4. [Experiment 4: Sorting Student Percentages (Python)](#experiment-4)
