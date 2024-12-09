@@ -9,7 +9,7 @@ This repository contains solutions to programming experiments for the **Second Y
 4. [Experiment 4: Sorting Student Percentages (Python)](https://github.com/DipanshuAmbilkar03/FDS/blob/main/FDS/exp4.py)
 5. [Experiment 5: Sorting Second-Year Percentages (Python)](https://github.com/DipanshuAmbilkar03/FDS/blob/main/FDS/exp5.py)
 6. [Experiment 6: Sorting Student Percentages (Python)](https://github.com/DipanshuAmbilkar03/FDS/blob/main/FDS/exp6.py)
-7. [Experiment 7: Pinnacle Club Membership Management](https://github.com/DipanshuAmbilkar03/FDS/blob/main/FDS/exp7.py)
+7. [Experiment 7: Pinnacle Club Membership Management](https://github.com/DipanshuAmbilkar03/FDS/blob/main/FDS/exp7.cpp)
 
 ---
 
