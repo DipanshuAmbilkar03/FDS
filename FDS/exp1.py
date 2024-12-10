@@ -15,14 +15,10 @@ def cb() :
     
 '''b) List of students who play either cricket or badminton but not both'''
 def cbncb() :
-    cbncb = []
-    for el in cricket :
-        if el not in badminton :
-            cbncb.append(el)
-    for el in cricket :
-        if el not in badminton :
-            cbncb.append(el)
-    return cbncb
+    c = set(cricket)
+    b = set(badminton)
+    result = list((c - b) | (b - c))
+    return result
 
 """c) Number of students who play neither cricket nor badminton"""
 def ncnb() :
